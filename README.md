@@ -1,3 +1,3 @@
-Marc Autran \n
-CyberSecurity tools developper \n
-Languages : Java & PowerShell
+- Marc Autran 
+- CyberSecurity tools developper 
+- Languages : Java & PowerShell
